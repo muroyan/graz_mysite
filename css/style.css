@@ -1,10 +1,10 @@
 tei-head{
   color: green;
-  text-align: center
+  text-align: justified
 }
 tei-head:before{
-  content: "[ "
+  content: "["
 }
 tei-head:after{
-  content: " ]"
+  content: "]"
 }
