@@ -3,8 +3,8 @@ tei-head{
   text-align: center
 }
 tei-head:before{
-  content: "1. ["
+  content: "[ "
 }
 tei-head:after{
-  content: "]"
+  content: " ]"
 }
